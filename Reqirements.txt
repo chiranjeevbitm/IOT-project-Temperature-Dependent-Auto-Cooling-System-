@@ -1,6 +1,7 @@
-# Requirements
-   DHT Sensor
-   4.7K ohm resistor  Relay
-   Jumper wires
-   Raspberry Pi
-   Mini fan
+Requirements
+
+    DHT Sensor
+    4.7K ohm resistor  Relay
+    Jumper wires
+    Raspberry Pi
+    Mini fan
