@@ -1,3 +1,6 @@
+# DHT22 interfaced with Raspberry Pi
+
+
 # importing libraries
 
 import RPi.GPIO as GPIO 
