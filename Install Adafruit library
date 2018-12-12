@@ -1,0 +1,9 @@
+Adafruit provides a library to work with the DHT22 sensor 
+
+Install the library in your Pi
+     Get the clone from GIT 
+
+git clone     https://github.com/adafruit/Adafruit_CircuitPython_DHT
+
+
+Install the library sudo python setup.py install 
