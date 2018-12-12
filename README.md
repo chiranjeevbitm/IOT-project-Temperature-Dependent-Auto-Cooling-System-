@@ -38,3 +38,7 @@ Read data from the sensor and Control the actuator according to the reading from
          Common
          NC (normal close)
  
+
+
+
+Adafruit DHT Library     https://github.com/adafruit/Adafruit_CircuitPython_DHT
