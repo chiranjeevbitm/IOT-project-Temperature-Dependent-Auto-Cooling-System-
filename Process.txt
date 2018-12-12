@@ -1,0 +1,39 @@
+Sensor interface with Raspberry Pi 
+
+
+      Connect pin 1 of DHT sensor to the 3.3V pin of Raspberry Pi.
+      
+      Connect pin 2 of DHT sensor to any input pins of Raspberry Pi, here we have used pin 11.
+      
+      Connect pin 4 of DHT sensor to the ground pin of the Raspberry Pi.
+      
+      
+Relay interface with Raspberry Pi 
+
+
+      Connect the VCC pin of relay to the 5V supply pin of Raspberry Pi.
+      
+      Connect the GND (ground) pin of relay to the ground pin of Raspberry Pi.
+      
+      Connect the input/signal pin of Relay to the assigned output pin of Raspberry Pi (Here we have used pin 7).
+      
+      
+      
+Connection: Relay 
+     Connect the relay pins with the Raspberry Pi as mentioned in previous slides 
+     Set the GPIO pin connected with the relay’s input pin as output in the sketch
+     Set the relay pin high when the temperature is greater than 30 
+
+
+Connection: Fan 
+
+     Connect the Li-po battery in series with the fan.
+     
+           NO terminal of the relay -> positive terminal of the Fan.
+           
+           Common terminal of the relay -> Positive terminal of the battery.
+           
+           Negative terminal of the battery -> Negative terminal of the fan.
+           
+           
+      Run the existing code. The fan should operate when the surrounding temperature is greater than the threshold value in the sketch 
