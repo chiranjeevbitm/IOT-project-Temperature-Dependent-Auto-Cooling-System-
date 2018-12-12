@@ -24,6 +24,7 @@ Read data from the sensor and Control the actuator according to the reading from
          PIN2-Data
          PIN3-Null
          PIN4-Ground
+        https://github.com/chiranjeevbitm/IOT-project-Temperature-Dependent-Auto-Cooling-System-/blob/master/DHT%20sensor.png
   
 ###  Actuator
   Mechanical/Electro-mechanical device
@@ -37,10 +38,11 @@ Read data from the sensor and Control the actuator according to the reading from
          3 output terminals (left to right)  NO (normal open):
          Common
          NC (normal close)
+        
+       https://github.com/chiranjeevbitm/IOT-project-Temperature-Dependent-Auto-Cooling-System-/blob/master/Relay.png
  
 
 
 
 Adafruit DHT Library     https://github.com/adafruit/Adafruit_CircuitPython_DHT
 
-https://github.com/chiranjeevbitm/IOT-project-Temperature-Dependent-Auto-Cooling-System-/blob/master/Relay.png
