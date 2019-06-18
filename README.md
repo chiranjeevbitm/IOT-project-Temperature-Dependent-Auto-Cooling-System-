@@ -39,7 +39,17 @@ Read data from the sensor and Control the actuator according to the reading from
          Common
          NC (normal close)
         
- https://github.com/chiranjeevbitm/IOT-project-Temperature-Dependent-Auto-Cooling-System-/blob/master/Relay.png
+        
+        
+  ## Requirements
+
+    DHT Sensor
+    4.7K ohm resistor  Relay
+    Jumper wires
+    Raspberry Pi
+    Mini fan
+   
+   
  
    ## Adafruit DHT Library
    
