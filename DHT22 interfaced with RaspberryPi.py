@@ -1,6 +1,6 @@
 
 # DHT22 interfaced with Raspberry Pi
-
+# Displays output as temperature and humidity onto the terminal
 
 # importing libraries
 
