@@ -41,8 +41,13 @@ Read data from the sensor and Control the actuator according to the reading from
         
  https://github.com/chiranjeevbitm/IOT-project-Temperature-Dependent-Auto-Cooling-System-/blob/master/Relay.png
  
+   ## Adafruit DHT Library
+   
+    Adafruit provides a library to work with the DHT22 sensor
+     Install the library in your Pi-  Get the clone from GIT
+    git clone https://github.com/adafruit/Adafruit_CircuitPython_DHT
+     Go to folder Adafruit_CircuitPython_DHT     cd Adafruit_CircuitPython_DHT
+     Install the library
+    sudo python setup.py install
 
-
-
-Adafruit DHT Library     https://github.com/adafruit/Adafruit_CircuitPython_DHT
-
+                    
