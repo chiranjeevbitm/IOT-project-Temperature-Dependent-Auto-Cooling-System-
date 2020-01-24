@@ -24,7 +24,9 @@ Read data from the sensor and Control the actuator according to the reading from
          PIN2-Data
          PIN3-Null
          PIN4-Ground
-![DHT Sensor](/DHT%20sensor.png)
+        
+
+
 ###  Actuator
   Mechanical/Electro-mechanical device
   
@@ -47,7 +49,9 @@ Read data from the sensor and Control the actuator according to the reading from
     Jumper wires
     Raspberry Pi
     Mini fan
-   
+ 
+ 
+ ![REquirements](/REquirements.jpg)
    
  
    ## Adafruit DHT Library
